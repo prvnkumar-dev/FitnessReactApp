@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Concentration curl",
+        "type": "strength",
+        "muscle": "biceps",
+        "equipment": "dumbbell",
+        "difficulty": "intermediate",
+        "shorts":"cHxRJdSVIkA?si=ZgZb0Hs0EhHoNYLs",
+        "IamgeLink":"concentrationCurl.png"
+    },
+    {
+        "name": "Hammer Curls",
+        "type": "strength",
+        "muscle": "biceps",
+        "equipment": "dumbbell",
+        "difficulty": "intermediate",
+        "shorts":"OPhgvwKBOwI?si=G5x2atoHRyJEIrcp",
+        "IamgeLink":"hammer.png"
+    },
+    {
+        "name": "Zottman Curl",
+        "type": "strength",
+        "muscle": "biceps",
+        "equipment": "None",
+        "difficulty": "intermediate",
+        "shorts":"-Z7pfi0NNqQ?si=Kt1ZFqgV6H9yxIIr",
+        "ImageLink":"zotmancurl.png"
+    },
+    {
+        "name": "Dumbbell Bench Press",
+        "type": "strength",
+        "muscle": "chest",
+        "equipment": "dumbbell",
+        "difficulty": "intermediate",
+        "shorts":"1V3vpcaxRYQ?si=K4t1b9_92gARkGiN",
+        "IamgeLink":"dumbbellBenchPress.png"
+    },
+    {
+        "name": "Barbell Bench Press - Medium Grip",
+        "type": "strength",
+        "muscle": "chest",
+        "equipment": "barbell",
+        "difficulty": "intermediate",
+        "shorts":"0cXAp6WhSj4?si=yy9VO5SBfCmU-4qV",
+        "IamgeLink":"benchPress.png"
+    },
+    {
+        "name": "Dumbbell Flyes",
+        "type": "strength",
+        "muscle": "chest",
+        "equipment": "dumbbell",
+        "difficulty": "intermediate",
+        "shorts":"Jz7oEmzhnfE?si=-APys0E2zK3klX-F",
+        "IamgeLink":"dumbellflys.png"
+    },
+    {
+        "name": "Reverse Grip Triceps Pushdown",
+        "type": "strength",
+        "muscle": "triceps",
+        "equipment": "cable",
+        "difficulty": "intermediate",
+        "shorts":"BOIJ1z1XXSM?si=nZh7TKchWXSbi6t9",
+        "IamgeLink":"reversetricepPush.png"
+    },
+    {
+        "name": "EZ-Bar Skullcrusher",
+        "type": "strength",
+        "muscle": "triceps",
+        "equipment": "e-z_curl_bar",
+        "difficulty": "intermediate",
+        "shorts":"zR9gty7LUxE?si=BH_aIjzbpyUB1_4h",
+        "IamgeLink":"tricepSkull.png"
+    },
+    {
+        "name": "Cable V-bar push-down",
+        "type": "strength",
+        "muscle": "triceps",
+        "equipment": "cable",
+        "difficulty": "intermediate",
+        "shorts":"Rc7-euA8FDI?si=h3xmgQh6ga185LQT",
+        "IamgeLink":"vbarTricep.png"
+    },
+    {
+        "name": "Single-Leg Press",
+        "type": "strength",
+        "muscle": "quadriceps",
+        "equipment": "machine",
+        "difficulty": "intermediate",
+        "shorts":"UQulofr12wE?si=2zVDtwp-k8e1bBa8",
+        "IamgeLink":"singleLegPress.png"
+    },
+    {
+        "name": "Barbell Full Squat",
+        "type": "strength",
+        "muscle": "quadriceps",
+        "equipment": "barbell",
+        "difficulty": "intermediate",
+        "shorts":"MLoZuAkIyZI?si=ddhhlp2W_j6bn7rn",
+        "IamgeLink":"barbeelSquat.png"
+    },
+    {
+        "name": "Barbell back squat to box",
+        "type": "powerlifting",
+        "muscle": "quadriceps",
+        "equipment": "barbell",
+        "difficulty": "intermediate",
+        "shorts":"A_R_LTXieTA?si=SaauEJeKxvqxCWjz",
+        "IamgeLink":"backSquat.png"
+    },
+    {
+        "name": "Close-grip pull-down",
+        "type": "strength",
+        "muscle": "lats",
+        "equipment": "cable",
+        "difficulty": "intermediate",
+        "shorts":"e3S820r53uk?si=ruCcgtxuIO1cjcOM",
+        "IamgeLink":"closeGripPull.png"
+    },
+    {
+        "name": "Close-Grip Front Lat Pulldown",
+        "type": "strength",
+        "muscle": "lats",
+        "equipment": "cable",
+        "difficulty": "intermediate",
+        "shorts":"MeSiZlWh3eY?si=8hbZPZzrUkdqXROp",
+        "IamgeLink":"closeGripLats.png"
+    },
+    {
+        "name": "V-bar pull-up",
+        "type": "strength",
+        "muscle": "lats",
+        "equipment": "None",
+        "difficulty": "intermediate",
+        "shorts":"IZMKe61144w?si=r_MRFZrU0A3z2Br3",
+        "IamgeLink":"VbarPullUp.png"
+    },
+    {
+        "name": "Barbell Deadlift",
+        "type": "strength",
+        "muscle": "hamstrings",
+        "equipment": "barbell",
+        "difficulty": "intermediate",
+        "shorts":"vfKwjT5-86k?si=stmQx_RrTVRDEvwR",
+        "IamgeLink":"deadlift.png"
+    },
+    {
+        "name": "Romanian Deadlift With Dumbbells",
+        "type": "strength",
+        "muscle": "hamstrings",
+        "equipment": "dumbbell",
+        "difficulty": "beginner",
+        "shorts":"u14AwrUcwWw?si=FqcXDgqQovMrV8ys",
+        "IamgeLink":"dumbeeldeadLift.png"
+    },
+    {
+        "name": "Sumo deadlift",
+        "type": "powerlifting",
+        "muscle": "hamstrings",
+        "equipment": "barbell",
+        "difficulty": "beginner",
+        "shorts":"Fcwh9JwSIro?si=Uk3cz5c8drm-qTWO",
+        "IamgeLink":"sumodeadlift.png"
+    },
+    {
+        "name": "Glute ham raise",
+        "type": "strength",
+        "muscle": "hamstrings",
+        "equipment": "none",
+        "difficulty": "beginner",
+        "shorts":"JQARXu8M-v4?si=VplWYtfsyXGGMVI3",
+        "IamgeLink":"gluteHamrise.png"
+    },
+    {
+        "name": "Smith Machine Calf Raise",
+        "type": "strength",
+        "muscle": "calves",
+        "equipment": "machine",
+        "difficulty": "intermediate",
+        "shorts":"IrrmU7_swBI?si=nKEjVmxQWyUlyw51",
+        "IamgeLink":"calveSmith.png"
+    }
+]
